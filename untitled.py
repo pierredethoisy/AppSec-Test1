@@ -15,3 +15,6 @@ uneConnexionBDD.commit()
 pwd= sdFGf3-rereh444
 
 apikey='xoxb-163213206324-zSDGSFDGh1242312435F12344ZR2324532554641ZEZ134235R',
+
+aws_access_key_id = AKIAY6HM2ZTJLBDBIIEB
+aws_secret_access_key = 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
